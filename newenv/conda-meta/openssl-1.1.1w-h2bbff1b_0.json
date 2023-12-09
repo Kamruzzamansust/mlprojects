@@ -140,7 +140,6 @@
   ],
   "fn": "openssl-1.1.1w-h2bbff1b_0.conda",
   "legacy_bz2_md5": "a67d4a763641de641ea9dfa8c4a5f567",
-  "legacy_bz2_size": 6048217,
   "license": "OpenSSL",
   "license_family": "Apache",
   "link": {
